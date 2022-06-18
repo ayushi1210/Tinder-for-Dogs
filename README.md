@@ -8,7 +8,7 @@ A homepage website which provides details of the application to the user like wh
 With the use of HTML, CSS, and Bootstap the whole website has been made. 
 The main framework used in building the TinDog website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
 
-# Few pictures of the Webbsite
+# Few pictures of the Website
 
 <img width="1084" alt="Screenshot 2022-06-12 at 5 30 35 PM" src="https://user-images.githubusercontent.com/93306058/173232105-03c7df4d-05a2-4947-9a45-11de5c081237.png">
 
